@@ -69,10 +69,6 @@ NSArray *cityArr()
         for (id tempState in [country objectForKey:@"state"])
         {
             LGStateModel *model = [[LGStateModel alloc] initWithDictionary:tempState];
-//            if (<#condition#>)
-//            {
-//                
-//            }
             [returnArray addObject:model];
         }
     }

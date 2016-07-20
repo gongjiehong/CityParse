@@ -14,5 +14,7 @@
 
 + (NSMutableArray *)getCountrysList;
 
++ (NSMutableArray *)getStatesListByCountryName:(NSString *)countryName;
+
 
 @end

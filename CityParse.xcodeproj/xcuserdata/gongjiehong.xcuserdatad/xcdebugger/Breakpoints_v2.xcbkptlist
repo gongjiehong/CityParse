@@ -10,11 +10,11 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "CityParse/LGCityHelper.m"
-            timestampString = "490272143.360358"
+            timestampString = "490504199.356158"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "82"
-            endingLineNumber = "82"
+            startingLineNumber = "86"
+            endingLineNumber = "86"
             landmarkName = "+getStatesListByCountryName:"
             landmarkType = "5">
          </BreakpointContent>
